@@ -3,7 +3,6 @@
 <h3 align="center">I'm a Computer Science and Cyber Security student from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/abd96-3ij_AAAAAC/the-cloud-cloud.gif" >
 
-
 - 🔭 I’m currently working on **Automation using Bash**
 
 - 🌱 I’m currently learning **Containerization Tech, Automation, Digital Forensics**
@@ -14,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayanksharma001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayanksharma001/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mayanksharma001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayanksharma001" height="30" width="40" /></a>
 <a href="https://medium.com/@mayanklearns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mayanklearns" height="30" width="40" /></a>
 </p>
 
