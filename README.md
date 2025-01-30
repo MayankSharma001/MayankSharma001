@@ -1,15 +1,17 @@
 [![MasterHead](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)]
-<h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
+<h1 align="center">Hi, I'm Mayank Sharma</h1>
 <h3 align="center">I'm a Computer Science and Cyber Security student from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/abd96-3ij_AAAAAC/the-cloud-cloud.gif" >
 
-- 🔭 I’m currently working on **Automation using Bash**
+- I’m currently working on **Automation using Bash**
 
-- 🌱 I’m currently learning **Containerization Tech, Automation, Digital Forensics**
+- I’m currently learning **Containerization Tech, Automation, Digital Forensics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MayankSharma001](https://github.com/MayankSharma001)
+- All of my projects are available at [https://github.com/MayankSharma001](https://github.com/MayankSharma001)
 
-- 📫 How to reach me **mansharma526@gmail.com**
+- How to reach me **mansharma526@gmail.com**
+
+<h4> Note: I don’t create separate repositories for each project. Instead, I maintain a single main repository for each type of project I build. For example, if I work on automation with Bash, I create a main repository like "automation-bash" and add different projects within that repo. This approach keeps everything organized in one place and makes it easier to manage. </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
