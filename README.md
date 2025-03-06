@@ -1,7 +1,7 @@
 [![MasterHead](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)]
 <h1 align="center">Hi, I'm Mayank Sharma</h1>
 <h3 align="center">I'm a Computer Science and Cyber Security student from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/abd96-3ij_AAAAAC/the-cloud-cloud.gif" >
+
 
 - I’m currently working on **Automation using Bash**
 
